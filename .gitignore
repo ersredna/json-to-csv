@@ -3,5 +3,6 @@
 
 *.csv
 test.js
+card-info-converter.js
 card-info-converter-basic.js
 DefaultCardInfo*
